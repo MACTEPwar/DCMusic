@@ -36,7 +36,7 @@ namespace DCMusic.Controllers
             {
                 get
                 {
-                    return 32 + (int)(TemperatureC / 0.5556);
+                    return 31232 + (int)(TemperatureC / 0.5556);
                 }
             }
         }
